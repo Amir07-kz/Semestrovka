@@ -1,0 +1,373 @@
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.exe
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.deps.json
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.runtimeconfig.json
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.runtimeconfig.dev.json
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.Views.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.Views.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csprojAssemblyReference.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.AssemblyInfoInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.AssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csproj.CoreCompileInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorAssemblyInfo.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorAssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\staticwebassets\UserStore.StaticWebAssets.Manifest.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\staticwebassets\UserStore.StaticWebAssets.xml
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\UserStore.styles.css
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.TagHelpers.input.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.TagHelpers.output.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorCoreGenerate.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorTargetAssemblyInfo.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorTargetAssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.Views.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.genruntimeconfig.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csproj.CopyComplete
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csprojAssemblyReference.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.AssemblyInfoInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.AssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csproj.CoreCompileInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorAssemblyInfo.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorAssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\staticwebassets\UserStore.StaticWebAssets.Manifest.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\staticwebassets\UserStore.StaticWebAssets.xml
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\UserStore.styles.css
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.TagHelpers.input.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.TagHelpers.output.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorCoreGenerate.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorTargetAssemblyInfo.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorTargetAssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ad.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Place.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.exe
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.deps.json
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.runtimeconfig.json
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.runtimeconfig.dev.json
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.Views.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.Views.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\AdvancedStringBuilder.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\JSPool.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.AspNet.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.AspNet.Middleware.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.Core.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libChakraCore.so
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libChakraCore.dylib
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ChakraCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\ChakraCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.Views.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csproj.CopyComplete
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.genruntimeconfig.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\test.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ad.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Place.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\test.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profil.cshtml.g.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\AdvancedStringBuilder.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\JSPool.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.AspNet.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.AspNet.Middleware.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.Core.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libChakraCore.so
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libChakraCore.dylib
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ChakraCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\ChakraCore.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Chat.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csproj.AssemblyReference.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.AssemblyInfoInputs.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.AssemblyInfo.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csproj.CoreCompileInputs.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorAssemblyInfo.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorAssemblyInfo.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\staticwebassets\UserStore.StaticWebAssets.Manifest.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.TagHelpers.input.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.TagHelpers.output.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorCoreGenerate.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ad.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Chat.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Place.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profil.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\test.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorTargetAssemblyInfo.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.RazorTargetAssemblyInfo.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.StaticWebAssets.xml
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.exe
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.deps.json
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.runtimeconfig.json
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.runtimeconfig.dev.json
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.Views.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\UserStore.Views.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\AdvancedStringBuilder.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\JSPool.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.AspNet.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.AspNet.Middleware.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\React.Core.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libChakraCore.so
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libChakraCore.dylib
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ChakraCore.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\ChakraCore.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.Views.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.csproj.CopyComplete
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\UserStore\obj\Debug\netcoreapp3.1\UserStore.genruntimeconfig.cache

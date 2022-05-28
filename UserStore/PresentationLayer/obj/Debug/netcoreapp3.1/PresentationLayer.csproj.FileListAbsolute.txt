@@ -1,0 +1,43 @@
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.deps.json
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CopyComplete
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.deps.json
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CopyComplete
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.deps.json
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CopyComplete
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.pdb

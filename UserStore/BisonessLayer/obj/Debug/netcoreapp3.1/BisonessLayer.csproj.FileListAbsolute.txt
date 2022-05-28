@@ -1,0 +1,37 @@
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csprojAssemblyReference.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.AssemblyInfoInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.AssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.deps.json
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csproj.CopyComplete
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.deps.json
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csprojAssemblyReference.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.AssemblyInfoInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.AssemblyInfo.cs
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csproj.CopyComplete
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\Ilnur\Desktop\Semestrovka-main\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.deps.json
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\BisonessLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csproj.AssemblyReference.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.AssemblyInfoInputs.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.AssemblyInfo.cs
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.csproj.CopyComplete
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.dll
+C:\Users\sabzi\OneDrive\Рабочий стол\Semestrovka\UserStore\BisonessLayer\obj\Debug\netcoreapp3.1\BisonessLayer.pdb

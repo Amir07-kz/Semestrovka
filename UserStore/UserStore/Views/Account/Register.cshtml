@@ -1,0 +1,149 @@
+﻿@model PresentationLayer.Models.RegisterViewModel
+<!DOCTYPE html>
+<html>
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box}
+/* Поля ввода во всю ширину */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #fefefe;
+}
+
+/* Add a background color when the inputs get focus */
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+/* Стили для всех кнопок */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity:1;
+}
+
+/* Дополнительные стили для кнопки отмены */
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+
+/* Разм. кнопки отмены и регистрации и устанавливаем одинаковую ширину */
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+}
+
+/* Отступы к элементами мэйна */
+.container {
+    padding: 16px;
+}
+
+/* Фон */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed;
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: #D1AFA6;
+    padding-top: 50px;
+}
+
+/* Коробка */
+.modal-content {
+    background-color: #D1AFA6;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Стиль горизонтальной линейки */
+hr {
+    border: 1px solid #E6E6FA;
+    margin-bottom: 25px;
+}
+
+/* Кнопка закрытия (x) */
+.close {
+    position: absolute;
+    right: 35px;
+    top: 15px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.close:hover,
+.close:focus {
+    color: #f44336;
+    cursor: pointer;
+}
+
+/* Очистить */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Изменить стили для отмены и рег. для мал. экранов */
+ screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+       width: 100%;
+    }
+}
+</style>
+<body>
+        <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+        <form method="post" asp-controller="Account" asp-action="Register">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div>
+                <label asp-for="Email"></label><br />
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </div>
+            <div>
+                <label asp-for="Firstname"></label><br />
+                <input asp-for="Firstname" />
+                <span asp-validation-for="Firstname"></span>
+            </div>
+            <div>
+                <label asp-for="Secondname"></label><br />
+                <input asp-for="Secondname" />
+                <span asp-validation-for="Secondname"></span>
+            </div>
+            <div>
+                <label asp-for="Password"></label><br />
+                <input asp-for="Password" />
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div>
+                <label asp-for="PasswordConfirm"></label><br />
+                <input asp-for="PasswordConfirm" />
+                <span asp-validation-for="PasswordConfirm"></span>
+            </div>
+            <div>
+                <input type="submit" value="Регистрация" />
+            </div>
+        </form>
+</body>
+</html>
+
