@@ -39,7 +39,7 @@ namespace UserStore
                 .AddEntityFrameworkStores<ApplicationContext>();
             services.AddControllersWithViews();
             var connection = Configuration.GetConnectionString("DefaultConnection");
-            services.AddDbContext<EFDBContext>(options => options.UseSqlServer(connection, b => b.MigrationsAssembly("DataLauer")));
+            services.AddDbContext<EFDBContext>(options => options.UseSqlServer(connection, b => b.MigrationsAssembly("DataLayer")));
             services.AddTransient<IUserRepository, EFUserRepository>();
             services.AddTransient<IAdRepository, EFAdRepository>();
             services.AddScoped<DataManager>();
